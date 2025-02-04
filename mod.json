@@ -11,6 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "TimeStepYT",
 	"description": "Bypasses \"Load Failed!\" in edited main levels",
+	"tags": ["offline", "enhancement", "cheat", "customization"],
 
 	"links": {
 		"source": "https://github.com/TimeStepYT/LoadFailedBypass"
